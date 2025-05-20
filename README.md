@@ -1,2 +1,4 @@
 # hello-world
-このリポジトリは GitHub Flow を実行するためのリポジトリです
+GitHubの練習をしています
+## H2
+### H3
